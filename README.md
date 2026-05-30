@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ali Haider</h1>
+<h1 align="center">Hi 👋, I'm Rai Muhammad Haider</h1>
 <h3 align="center">Full Stack JavaScript Developer | React.js | Node.js | NestJS</h3>
 
 <p align="center">
@@ -21,11 +21,11 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/RaiMuhammadHaider" target="_blank">
+<a href="https://github.com/RaiMuhammadHaider" target="https://github.com/RaiMuhammadHaider">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+<a href="https://pk.linkedin.com/in/raimuahmmadhaider" target="https://pk.linkedin.com/in/raimuahmmadhaider">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
