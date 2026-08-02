@@ -14,6 +14,7 @@
 - 🌱 Currently learning advanced backend architecture and Python
 - ⚡ Strong interest in React, Node.js, NestJS, PostgreSQL, and AI-powered applications
 - 🔥 Building real-world projects with modern technologies
+- 📫 Reach me: **raideploy@gmail.com**
 - 📫 Reach me: **raimuhammadalihaider@gmail.com**
 
 ---
@@ -28,7 +29,9 @@
 <a href="https://pk.linkedin.com/in/raimuahmmadhaider" target="https://pk.linkedin.com/in/raimuahmmadhaider">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-
+<a href="mailto:raideploy@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 <a href="mailto:raimuhammadalihaider@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
